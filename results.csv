@@ -1,0 +1,10 @@
+size_mm,condition,h_W_m2K,tau_s,Biot,max_centre_surface_gap_pct,verdict
+12.5,Still air,10,1202.0,0.0007,0.1,Lumped valid
+12.5,Fan,100,120.2,0.0069,1.0,Lumped valid
+12.5,Water,1000,12.0,0.0694,8.7,Lumped valid
+25.0,Still air,10,2404.1,0.0014,0.2,Lumped valid
+25.0,Fan,100,240.4,0.0139,1.9,Lumped valid
+25.0,Water,1000,24.0,0.1389,15.8,Marginal
+50.0,Still air,10,4808.1,0.0028,0.4,Lumped valid
+50.0,Fan,100,480.8,0.0278,3.8,Lumped valid
+50.0,Water,1000,48.1,0.2778,26.7,Marginal
